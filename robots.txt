@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /profile/
+Disallow: /verification
+
+Sitemap: https://skipthegames.us.com/sitemap.xml
